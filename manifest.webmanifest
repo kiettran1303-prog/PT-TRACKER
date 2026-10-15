@@ -1,0 +1,17 @@
+{
+  "name": "Theo dõi tập luyện",
+  "short_name": "Tập luyện",
+  "description": "Theo dõi quá trình tập luyện của khách hàng",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f7fe",
+  "theme_color": "#1d5fd6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
